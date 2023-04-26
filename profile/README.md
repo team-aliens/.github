@@ -2,7 +2,7 @@
 
 ![Group 18198](https://user-images.githubusercontent.com/80632060/223010416-245afac0-7984-4f58-a8d0-357d9f8353b4.png)
 
-DMS는 Dormitory Management System의 약자로, 학교와 학생의 기숙사 생활을 편리하게 만들기 위한 서비스입니다.
+DMS는 Dormitory Management System의 약자로, 학교와 학생의 기숙사 생활을 편리하게 하기 위한 서비스입니다.
 
 저희는 학생들의 편리한 기숙사 생활을 위한 기능을 제공합니다
 
