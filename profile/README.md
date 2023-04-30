@@ -1,7 +1,5 @@
 # DMS
 
-![Group 18198](https://user-images.githubusercontent.com/80632060/223010416-245afac0-7984-4f58-a8d0-357d9f8353b4.png)
-
 DMS는 Dormitory Management System의 약자로, 학교와 학생의 기숙사 생활을 편리하게 하기 위한 서비스입니다.
 
 저희는 학생들의 편리한 기숙사 생활을 위한 기능을 제공합니다
@@ -25,5 +23,9 @@ DMS는 기숙사를 위한 편의 시스템을 목표로 하고 있기 때문에
 모든 학교와 학생의 편리한 기숙사 생활을 위해 나아가겠습니다! :)
 
 DMS에 대해 더 알고싶다면? → [DMS 소개 가이드](https://www.notion.so/teamaliens/DMS-Dormitory-Management-System-1a1c2b14473845e5a36ce944f008a97f?pvs=4)
+
+![Group 18198](https://user-images.githubusercontent.com/80632060/223010416-245afac0-7984-4f58-a8d0-357d9f8353b4.png)
+
+
 
 
