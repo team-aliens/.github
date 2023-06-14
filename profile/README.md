@@ -29,6 +29,10 @@ DMS에 대해 더 알고싶다면? → [DMS 소개 가이드](https://www.notion
  
  ![DMS github main](https://github.com/team-aliens/.github/assets/101160207/9a0c0aed-36ab-4b78-8bae-3109d9c116e2)
 
+<details>
+<summary>→ <a href="https://www.notion.so/DMS-Dormitory-Management-System-1a1c2b14473845e5a36ce944f008a97f?pvs=21">DMS에 대해 더 알아보기</a></summary>
+<div markdown="1">
+
 </br>
 
 # 최고의 기숙사 관리 서비스, DMS
@@ -61,7 +65,6 @@ DMS는 SmartTech Korea, Softwave 등의 전람회에 참가하여 서비스 가�
 </br>
 
 ## 모두가 편리한 기숙사를 위해 나아가겠습니다 :)
-→ [DMS에 대해 더 알아보기](https://www.notion.so/DMS-Dormitory-Management-System-1a1c2b14473845e5a36ce944f008a97f?pvs=21)
 
 </br>
 </br>
@@ -79,3 +82,6 @@ DMS는 SmartTech Korea, Softwave 등의 전람회에 참가하여 서비스 가�
 ---
 
 ![image 186](https://github.com/team-aliens/.github/assets/101160207/8d90090e-67fa-45c8-ada8-4220d85f8360)
+
+</div>
+</details>
