@@ -30,7 +30,7 @@ DMS에 대해 더 알고싶다면? → [DMS 소개 가이드](https://www.notion
  ![DMS github main](https://github.com/team-aliens/.github/assets/101160207/9a0c0aed-36ab-4b78-8bae-3109d9c116e2)
 
 <details>
-<summary>→ <a href="https://www.notion.so/DMS-Dormitory-Management-System-1a1c2b14473845e5a36ce944f008a97f?pvs=21">DMS에 대해 더 알아보기</a></summary>
+<summary><a href="https://www.notion.so/DMS-Dormitory-Management-System-1a1c2b14473845e5a36ce944f008a97f?pvs=21">DMS에 대해 더 알아보기</a></summary>
 <div markdown="1">
 
 </br>
