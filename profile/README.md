@@ -27,6 +27,7 @@ DMS에 대해 더 알고싶다면? → [DMS 소개 가이드](https://www.notion
 ![Group 18198](https://user-images.githubusercontent.com/80632060/223010416-245afac0-7984-4f58-a8d0-357d9f8353b4.png)
  -->
  
+ <!--
  ![DMS github main](https://github.com/team-aliens/.github/assets/101160207/9a0c0aed-36ab-4b78-8bae-3109d9c116e2)
 
 <details>
@@ -80,8 +81,11 @@ DMS는 SmartTech Korea, Softwave 등의 전람회에 참가하여 서비스 가�
 ![DMS github 4](https://github.com/team-aliens/.github/assets/101160207/07d609f8-64e7-4685-8c12-ad68572a56bf)
 
 ---
-
-![image 186](https://github.com/team-aliens/.github/assets/101160207/8d90090e-67fa-45c8-ada8-4220d85f8360)
-
 </div>
 </details>
+![image 186](https://github.com/team-aliens/.github/assets/101160207/8d90090e-67fa-45c8-ada8-4220d85f8360)
+-->
+
+
+![Main page](https://github.com/team-aliens/.github/assets/101160207/c52234b3-8868-4db2-8f6b-50cb7b75ecfb)
+![Description page](https://github.com/team-aliens/.github/assets/101160207/303e57ce-1917-4520-a509-ae55082c8262)
