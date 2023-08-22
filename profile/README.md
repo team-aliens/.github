@@ -87,7 +87,7 @@ DMS는 SmartTech Korea, Softwave 등의 전람회에 참가하여 서비스 가�
 -->
 
 
-![Main page](https://github.com/team-aliens/.github/assets/101160207/c52234b3-8868-4db2-8f6b-50cb7b75ecfb)
-![Description page](https://github.com/team-aliens/.github/assets/101160207/303e57ce-1917-4520-a509-ae55082c8262)
+<img width="600px" src="https://github.com/team-aliens/.github/assets/101160207/c52234b3-8868-4db2-8f6b-50cb7b75ecfb">
+<img width="600px" src="https://github.com/team-aliens/.github/assets/101160207/303e57ce-1917-4520-a509-ae55082c8262">
 
 DMS에 대해 더 알아보기 <a href="https://www.notion.so/DMS-Dormitory-Management-System-1a1c2b14473845e5a36ce944f008a97f?pvs=21">-></a>
