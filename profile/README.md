@@ -86,8 +86,18 @@ DMS는 SmartTech Korea, Softwave 등의 전람회에 참가하여 서비스 가�
 ![image 186](https://github.com/team-aliens/.github/assets/101160207/8d90090e-67fa-45c8-ada8-4220d85f8360)
 -->
 
+### 최고의 기숙사 관리 서비스, DMS를 만들어가는 Team Aliens입니다!
+
 
 <img width="600px" src="https://github.com/team-aliens/.github/assets/101160207/c52234b3-8868-4db2-8f6b-50cb7b75ecfb">
-<img width="600px" src="https://github.com/team-aliens/.github/assets/101160207/303e57ce-1917-4520-a509-ae55082c8262">
 
-DMS에 대해 더 알아보기 <a href="https://www.notion.so/DMS-Dormitory-Management-System-1a1c2b14473845e5a36ce944f008a97f?pvs=21">-></a>
+
+2015년부터 시작한 DMS 서비스는 오랜 시간동안 축적된 내공과 기술을 바탕으로 서비스를 운영하여 안정적이고 완성도 있는 서비스를 제공해요.
+
+Frontend, Backend, Android, iOS, Design, 기획 등 다양한 전공 분야를 가진 고등학생들이 모여 각자의 역량을 발휘하고 있어요.
+
+Team Aliens는 사용자에게 의미있는 경험을 만들기 위해 끊임없이 고민하며 나아가요.
+
+DMS에 대해 더 알고싶다면 <a href="https://www.notion.so/DMS-Dormitory-Management-System-1a1c2b14473845e5a36ce944f008a97f?pvs=21">서비스 소개 페이지</a>로 와주세요!
+
+
